@@ -98,7 +98,7 @@ $dist_data = mysqli_stmt_get_result($dist_stmt);
     <main class="main-content">
         <div class="page-header">
             <h1>Summary Reports</h1>
-            <p>Filter and view system-wide statistics</p>
+            
         </div>
 
         

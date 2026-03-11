@@ -37,7 +37,7 @@ $total_requests = mysqli_num_rows($result);
 
         <div class="page-header">
             <h1>All Relief Requests</h1>
-            <p>View every relief request submitted in the system</p>
+            
         </div>
 
         <div class="card">

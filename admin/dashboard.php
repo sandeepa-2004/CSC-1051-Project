@@ -95,7 +95,7 @@ $recent_requests = mysqli_query($conn, $recent_sql);
 
     <div class="page-header">
         <h1>Admin Dashboard</h1>
-        <p>System overview and recent activity</p>
+        
     </div>
 
     <?php if (isset($_GET['deleted'])) { ?>

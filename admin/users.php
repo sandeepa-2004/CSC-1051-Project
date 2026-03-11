@@ -76,7 +76,7 @@ if (isset($_GET['view'])) {
 
 <div class="page-header">
     <h1>Registered Users</h1>
-    <p>View and manage all registered users in the system</p>
+    
 </div>
 
 <?php if (isset($_GET['deleted'])) { ?>
