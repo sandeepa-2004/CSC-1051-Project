@@ -98,7 +98,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <main class="main-content">
 
-        <!-- Page Header -->
+    
         <div class="page-header">
             <h1>Submit Relief Request</h1>
             <p>Fill in the details below to request flood relief assistance</p>
