@@ -64,7 +64,7 @@ $recent = mysqli_query($conn, $recent_sql);
             <h1>
                 Hello, <?= htmlspecialchars(explode(' ', $_SESSION['user_name'])[0]) ?> 👋
             </h1>
-            <p>Here's an overview of your relief requests</p>
+           
         </div>
 
         

@@ -94,7 +94,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="auth-card">
 
         <div class="auth-logo">
-            <div class="logo-icon">🌊</div>
+           
             <h1>Flood Relief Management</h1>
             <p>Sri Lanka Emergency Response System</p>
         </div>

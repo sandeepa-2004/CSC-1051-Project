@@ -137,7 +137,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="page-header">
     <h1>Edit Request #<?= $id ?></h1>
-    <p>Update your relief request details</p>
+    
 </div>
 
 

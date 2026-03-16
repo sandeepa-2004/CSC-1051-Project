@@ -6,13 +6,8 @@ $current = basename($_SERVER['PHP_SELF']);
 
     
     <div class="sidebar-header">
-        <a href="dashboard.php" class="sidebar-logo">
-            <div class="icon">🌊</div>
-            <div class="text">
-                <h2>Flood Relief</h2>
-                <p>Sri Lanka</p>
-            </div>
-        </a>
+        
+    
     </div>
 
 

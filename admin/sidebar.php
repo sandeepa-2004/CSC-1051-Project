@@ -4,11 +4,8 @@ $current = basename($_SERVER['PHP_SELF']);
 <aside class="sidebar">
     <div class="sidebar-header">
         <a href="dashboard.php" class="sidebar-logo">
-            <div class="icon">🌊</div>
-            <div class="text">
-                <h2>Flood Relief</h2>
-                <p>Admin Panel</p>
-            </div>
+           
+            
         </a>
     </div>
 

@@ -35,7 +35,7 @@ $requests = mysqli_query(
         
         <div class="page-header">
             <h1>My Relief Requests</h1>
-            <p>Track and manage all your submitted requests</p>
+            
         </div>
 
         
