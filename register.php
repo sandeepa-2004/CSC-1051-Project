@@ -109,8 +109,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <h2 class="auth-title">Create your account</h2>
         <p class="auth-subtitle">Register to submit flood relief requests</p>
-
-        <form method="POST">
+ <form method="POST">
             <div class="form-group">
                 <label>Full Name *</label>
                 <input type="text" name="full_name" placeholder="Saman Perera" value="<?= htmlspecialchars($_POST['full_name'] ?? '') ?>" required>
@@ -136,6 +135,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <button type="submit" class="btn btn-primary">Create Account →</button>
         </form>
 
+       
         <div class="auth-link">
             Already have an account? <a href="index.php">Sign in</a>
         </div>
