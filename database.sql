@@ -3,7 +3,7 @@
 CREATE DATABASE flood_relief_db;
 USE flood_relief_db;
 
-CREATE TABLE IF  users (
+CREATE TABLE  users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     full_name VARCHAR(100) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
