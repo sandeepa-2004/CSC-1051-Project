@@ -42,7 +42,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #0f4c3a 0%, #1a6b5a 40%, #2a8a74 70%, #3aa88e 100%);
+    background: linear-gradient(135deg, #0a98f0 0%, #7172c2 40%, #697cb5 70%, #bed2e5 100%);
     position: relative;
     overflow: hidden;
     padding: 20px;
@@ -54,7 +54,7 @@ body {
     width: 600px;
     height: 600px;
     border-radius: 50%;
-    background: rgba(255,255,255,0.04);
+    background: rgba(230, 232, 233, 0.04);
     top: -200px;
     right: -200px;
 }
